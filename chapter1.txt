@@ -12,6 +12,8 @@ When you start to stage your very first file
 //code -r chapter3.txt 
 //git add . (to add 2. and 3.)
 //git log to see safe staging areas to reference too
+//To seed the differences just press the arrow circle to right hand corner of this page 
+
 
 When you add more changes to your file
 //git status
