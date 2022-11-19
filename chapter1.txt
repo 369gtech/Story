@@ -10,8 +10,10 @@ When you start to stage your very first file
 //git log
 //code -r chapter2.txt 
 //code -r chapter3.txt 
+//git add . (to add 2. and 3.)
+//git log to see safe staging areas to reference too
 
 When you add more changes to your file
 //git status
 //git add .
-//git status //ready to stage 
+//git status //ready to stage
