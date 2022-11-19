@@ -1,5 +1,17 @@
 //mkdir story
 //cd story
 //echo > chapter1.txt 
-//code -r chapter1.tst 
+//code -r chapter1.txt
 //git init
+When you start to stage your very first file
+//git status
+//git add chapter1.txt
+//git status //ready to stage 
+//git log
+//code -r chapter2.txt 
+//code -r chapter3.txt 
+
+When you add more changes to your file
+//git status
+//git add .
+//git status //ready to stage 
