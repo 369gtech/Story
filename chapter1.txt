@@ -1,0 +1,5 @@
+//mkdir story
+//cd story
+//echo > chapter1.txt 
+//code -r chapter1.tst 
+//git init
