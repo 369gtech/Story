@@ -19,3 +19,13 @@ When you add more changes to your file
 //git status
 //git add .
 //git status //ready to stage
+
+Change back to a previous version
+//git checout fileName.extention 
+
+Loading to github 
+//git remote add origin fileNameFromGit https://github.com/369gtech/Story.git
+//git push -u origin master
+
+Create hidden file
+//echo > .gitignore
